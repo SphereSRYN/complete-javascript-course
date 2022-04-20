@@ -5,7 +5,7 @@ const measurekelvin = () => {
   const measurement = {
     type: "temp",
     unit: "celsius",
-    // c) fix
+    // c) fix ___
     value: Number(prompt("Degrees celcius: ")),
   };
 
